@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fikrimln16&theme=default" alt="fikrimln16" /></p>
 
-![](https://leetcard.jacoblin.cool/fikrimln16?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/fikrimln16?ext=heatmap)
