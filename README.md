@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fikri Maulana</h1>
-<h3 align="center">A passionate junior backend from Indonesia</h3>
 
 - 🌱 I’m currently learning **expressJS, reactJS, and google cloud platform**
 
