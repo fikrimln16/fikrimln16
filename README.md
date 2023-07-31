@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **maulanafikri455@gmail.com**
 
-- ⚡ Fun fact **I loved kdrama**
+- ⚡ Fun fact **i loved making threads about programming and leetcode on twitter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
